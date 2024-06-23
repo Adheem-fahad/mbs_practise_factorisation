@@ -42,3 +42,20 @@ outline: none;
     margin-left: 20px;
     border-radius: 10px;
 }
+.buttonn{
+    margin: 50px;
+    margin-left: 20px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    background: rgb(208, 255, 0);
+    padding: 10px;
+}
+.buttonn:hover{
+    background: rgb(104, 103, 103);
+    
+}
+.buttonn:active{
+    background: rgb(166, 167, 164);
+}
+
