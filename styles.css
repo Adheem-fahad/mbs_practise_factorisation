@@ -31,6 +31,13 @@ outline: none;
     background: rgba(8, 8, 8,.5);
 
 }
+.inp{
+    display: flex;
+    justify-content: center;
+    background: yellow;
+    width: 100px;
+    height: 110px;
+}
 .flxbxsx h1{
     font-size: 8rem;
     width:100%;
@@ -41,15 +48,17 @@ outline: none;
     margin: 50px;
     margin-left: 20px;
     border-radius: 10px;
+    
 }
 .buttonn{
-    margin: 50px;
     margin-left: 20px;
+    margin-top: 10px;
     border-radius: 5px;
     outline: none;
     border: none;
     background: rgb(208, 255, 0);
     padding: 10px;
+
 }
 .buttonn:hover{
     background: rgb(104, 103, 103);
